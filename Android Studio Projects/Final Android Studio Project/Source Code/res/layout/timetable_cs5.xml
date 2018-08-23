@@ -1,0 +1,118 @@
+
+<timetable>
+
+	<program>CS</program>
+	<semester>5</semester>
+	<gid>M6</gid>
+	<mon>
+		<time>9</time>
+		<cid></cid>
+		<time>10</time>
+		<cid></cid>
+		<time>11</time>
+		<cid></cid>
+		<time>12</time>
+		<cid>CP2530 Lecture ET328</cid>
+		<time>13</time>
+		<cid>CT2530 Lecture ET328</cid>
+		<time>14</time>
+		<cid></cid>		
+		<time>15</time>
+		<cid>CT2530 Lecture ET328</cid>		
+		<time>16</time>
+		<cid></cid>
+		<time>17</time>
+		<cid></cid>
+		<time>18</time>
+		<cid></cid>		
+	</mon>
+	<tue>
+		<time>9</time>
+		<cid>CP2530 Lecture ET328</cid>
+		<time>10</time>
+		<cid>CT2530 Lecture ET328</cid>
+		<time>11</time>
+		<cid></cid>
+		<time>12</time>
+		<cid>CP2530 Lab ET328</cid>
+		<time>13</time>
+		<cid>CP2530 Lab ET328</cid>
+		<time>14</time>
+		<cid>CP2530 Lab ET328</cid>		
+		<time>15</time>
+		<cid></cid>		
+		<time>16</time>
+		<cid></cid>
+		<time>17</time>
+		<cid></cid>
+		<time>18</time>
+		<cid></cid>		
+	</tue>	
+	<wed>
+		<time>9</time>
+		<cid></cid>
+		<time>10</time>
+		<cid></cid>
+		<time>11</time>
+		<cid></cid>
+		<time>12</time>
+		<cid>CP2530 Lecture ET328</cid>
+		<time>13</time>
+		<cid></cid>
+		<time>14</time>
+		<cid></cid>		
+		<time>15</time>
+		<cid></cid>		
+		<time>16</time>
+		<cid></cid>
+		<time>17</time>
+		<cid></cid>
+		<time>18</time>
+		<cid></cid>		
+	</wed>	
+	<thu>
+		<time>9</time>
+		<cid></cid>
+		<time>10</time>
+		<cid></cid>
+		<time>11</time>
+		<cid></cid>
+		<time>12</time>
+		<cid></cid>
+		<time>13</time>
+		<cid></cid>
+		<time>14</time>
+		<cid></cid>		
+		<time>15</time>
+		<cid></cid>		
+		<time>16</time>
+		<cid></cid>
+		<time>17</time>
+		<cid></cid>
+		<time>18</time>
+		<cid></cid>		
+	</thu>
+	<fri>
+		<time>9</time>
+		<cid></cid>
+		<time>10</time>
+		<cid>CT2530 Lab ET328</cid>
+		<time>11</time>
+		<cid></cid>
+		<time>12</time>
+		<cid></cid>
+		<time>13</time>
+		<cid></cid>
+		<time>14</time>
+		<cid></cid>		
+		<time>15</time>
+		<cid></cid>		
+		<time>16</time>
+		<cid></cid>
+		<time>17</time>
+		<cid></cid>
+		<time>18</time>
+		<cid></cid>		
+	</fri>
+</timetable>
+
