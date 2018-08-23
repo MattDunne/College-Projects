@@ -1,0 +1,7 @@
+<html>
+  <body>
+    <p>This page has been visited
+     <!--#exec cmd="/usr/lib/cgi-bin/gcounter.cgi"-->
+     times</p>
+  </body>
+</html>
