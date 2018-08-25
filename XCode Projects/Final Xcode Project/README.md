@@ -10,7 +10,7 @@ using completely different IDE's and programming languages.
 With this application users would be able to:
 * Have a main hub screen with icons to bring them to different sections of the application.
 * naviagate a custommade calendar application that shows the current date and populates the calendar with customly created events.
-* Open up Picker to select a specific Program with a specified year of study to acquire a class scheduled that is populated by xml data.
+* Open up Picker to select a specific Program with a specified year of study to acquire a class schedule that is populated by xml data.
 * Browse through course specifications including courses that will be taken, what year they're taken in said program, and how many credits they're worth. 
 Again, this is populated by xml data.
 * View a list that is capable of accesing the phone's built phone or email applications to call the school.
