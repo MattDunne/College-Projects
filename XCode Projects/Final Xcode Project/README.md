@@ -3,7 +3,7 @@
 This project was the final project I had to hand in by the end of the semester.
 
 The purpose of this project was to create an application for a fake college by
-the name of name of 'College of the South Pacific". This project was created for
+the name of name of "College of the South Pacific". This project was created for
 both iOs and Android as final projects, but both were completed for seperate courses
 using completely different IDE's and programming languages.
 
