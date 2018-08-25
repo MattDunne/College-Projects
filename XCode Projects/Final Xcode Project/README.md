@@ -30,22 +30,22 @@ Screenshots:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot5.png "Screenshot 5")
 
-__Picker view for proram schedules:__
+# Picker view for proram schedules:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot3.png "Screenshot 3")
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot4.png "Screenshot 4")
 
-__Program information view:__
+#  Program information view:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot8.png "Screenshot 8")
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot9.png "Screenshot 9")
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot10.png "Screenshot 10")
 
-__Accessing school location with Apple Maps:__
+# Accessing school location with Apple Maps:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot6.png "Screenshot 6")
 
-__News Page populated by xml data:__
+# News Page populated by xml data:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot7.png "Screenshot 7")
 
