@@ -3,16 +3,16 @@
 The goal of this project was to create a functioning calculator application for iOs devices.
 
 The calculator is capable of carrying basic mathematicla functions such as:
-* addition
-* subtraction
-* division
-* multiplication
+* Addition.
+* Subtraction.
+* Division.
+* Multiplication.
 
 Additionally, it is also capable of carrying out mroe advanced functions such as:
-* changing the operator signs (+ or -)
-* multiplying by the power of 2
-* square rooting a number.
-* carrying out operations using decimals
+* Changing the operator signs (+ or -).
+* Multiplying by the power of 2.
+* Square rooting a number.
+* Carrying out operations using decimals.
 
 
 Screenshots:
