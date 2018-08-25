@@ -8,6 +8,7 @@ the goal of this project was to create an iOs game application in which:
 * Arrows are fired from the archer character when the screen is tapped.
 * beachballs fall from the sky and spawn a popping animation along with a sound 
 effect when struck by arrow
+* A score is given based on how many balloons were popped before the game ends.
 
 
 Screenshots:
