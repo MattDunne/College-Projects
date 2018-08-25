@@ -30,7 +30,7 @@ Screenshots:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot5.png "Screenshot 5")
 
-# Picker view for proram schedules:
+# Picker view for program schedules:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot3.png "Screenshot 3")
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot4.png "Screenshot 4")
