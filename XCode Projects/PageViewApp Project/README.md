@@ -15,11 +15,9 @@ The PageViewController implemented here is capable of:
 Screenshots:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/PageViewApp%20Project/Screenshots/PageViewApp_screenshot1.png "Screenshot 1")
-
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/PageViewApp%20Project/Screenshots/PageViewApp_screenshot2.png "Screenshot 2")
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/PageViewApp%20Project/Screenshots/PageViewApp_screenshot3.png "Screenshot 3")
-
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/PageViewApp%20Project/Screenshots/PageViewApp_screenshot4.png "Screenshot 4")
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/PageViewApp%20Project/Screenshots/PageViewApp_screenshot5.png "Screenshot 5")
