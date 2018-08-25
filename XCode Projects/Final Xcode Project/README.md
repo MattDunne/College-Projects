@@ -20,13 +20,13 @@ Again, this is populated by xml data.
 
 Screenshots:
 
-__Main application page:__
+# Main application page:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot2.png "Screenshot 2")
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot11.png "Screenshot 11")
 
 
-__Custommade Calendar:__
+# Custommade Calendar:
 
 ![alt text](https://github.com/MattDunne/College-Projects/blob/master/XCode%20Projects/Final%20Xcode%20Project/Screenshots/FinalXcodeProject_screenshot5.png "Screenshot 5")
 
