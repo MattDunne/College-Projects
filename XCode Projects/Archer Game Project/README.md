@@ -1,12 +1,14 @@
 # Archer Game Project
 
-This project was an optional assignment for additonal marks, the goal of this project was to
-create an iOs game application where an archer fires arrows at falling beachballs when the
-screen is tapped. 
+This project was an optional assignment for additonal marks.
 
-The archer is fully animated along with particle effects and sound effects that appear when 
-the balls are popped. A the end of the game the player is shown their score based on how
-many balls were popped.
+the goal of this project was to create an iOs game application in which: 
+* There is a splash screen prompting user to begin the game.
+* An archer sprite with multiple frames of animation is implemented.
+* Arrows are fired from the archer character when the screen is tapped.
+* beachballs fall from the sky and spawn a popping animation along with a sound 
+effect when struck by arrow
+
 
 Screenshots:
 
