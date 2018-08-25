@@ -28,26 +28,26 @@ Screenshots:
 
 # Custommade Calendar:
 
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot8.png "Screenshot 8")
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot9.png "Screenshot 9")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot8b.png "Screenshot 8")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot9b.png "Screenshot 9")
 
 # Computing Systems Engineering Technology schedule:
 
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot12.png "Screenshot 12")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot12b.png "Screenshot 12")
 
 #  Program information view:
 
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot5.png "Screenshot 5")
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot6.png "Screenshot 6")
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot7.png "Screenshot 7")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot5b.png "Screenshot 5")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot6b.png "Screenshot 6")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot7b.png "Screenshot 7")
 
 # Contact Page and Accessing school location with Google Maps:
 
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot15.png "Screenshot 15")
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot16.png "Screenshot 16")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot15b.png "Screenshot 15")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot16b.png "Screenshot 16")
 
 # News Page populated by xml data:
 
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot13.png "Screenshot 13")
-![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot14.png "Screenshot 14")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot13b.png "Screenshot 13")
+![alt text](https://github.com/MattDunne/College-Projects/blob/master/Android%20Studio%20Projects/Final%20Android%20Studio%20Project/screenshots/android_screenshot14b.png "Screenshot 14")
 
