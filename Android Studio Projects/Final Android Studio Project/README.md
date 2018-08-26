@@ -1,5 +1,8 @@
 # Final Android Studio Project
 
+Full Android Studio application download link:
+https://drive.google.com/open?id=1GCIP8__whzE8saEbcpg-PgnRyfnmubgj
+
 This project was the final project I had to hand in by the end of the semester.
 
 The purpose of this project was to create an application for a fake college by
